@@ -1,4 +1,4 @@
-<title>A passionate frontend developer from Brazil</title>
+<center>A passionate frontend developer from Brazil</center>
 
 - 🔭 I’m currently working on [Atlas Resources](https://atlasresources.site)<br>
 
