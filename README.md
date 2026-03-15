@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About me
 
-- 🔭 Currently working at **[Wave Resources](https://waveresources.com.br)** and [Atlas Resources](https://www.atlasmta.com.br)
+- 🔭 Currently working at **[Wave Resources](https://waveresources.com.br)**
 - 🧠 Fullstack Developer with experience in both **Frontend** and **Backend**
 - ⚡ Focused on performance, clean code and scalability
 - 🎮 Interested in game-related systems, scripting and optimizations
